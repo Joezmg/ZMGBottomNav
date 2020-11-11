@@ -1,2 +1,3 @@
+include ':Nav'
 include ':app'
 rootProject.name = "ZMGBottomNav"

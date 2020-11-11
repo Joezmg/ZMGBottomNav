@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ZMGBottomNav</string>
+    <string name="main_menu_tab_community">社区</string>
+    <string name="main_menu_tab_production">作品</string>
+    <string name="main_menu_tab_scene">场景</string>
+    <string name="main_menu_tab_me">我的</string>
 </resources>
